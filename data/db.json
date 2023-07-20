@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "nyam",
+      "datetime": "Today",
+      "body": "NYAM"
+    },
+    {
+      "id": 2,
+      "title": "nyam",
+      "datetime": "Jul 20, 2023 10:14:25 PM",
+      "body": "NYAM"
+    },
+    {
+      "id": 3,
+      "title": "nyam",
+      "datetime": "Yesterday",
+      "body": "NYAM"
+    },
+    {
+      "id": 4,
+      "title": "nyam",
+      "datetime": "That day",
+      "body": "NYAM"
+    },
+    {
+      "id": 5,
+      "title": "nyam ",
+      "datetime": "Jul 20, 2023 10:11:35 PM",
+      "body": "nyamnyamnyamasd"
+    },
+    {
+      "id": 6,
+      "title": "nyam ",
+      "datetime": "July 20, 2023 9:36:59 PM",
+      "body": "nyamnyamnyamnyamnyamnyam"
+    }
+  ]
+}
